@@ -3,7 +3,7 @@ import Button from '../components/Button';
 
 function NavBar() {
   return (
-    <div className="flex justify-between items-center w-screen bg-green h-[74px]  px-8">
+    <div className="flex justify-between items-center w-screen bg-green h-[74px] px-8">
       <div className="h-full flex items-center">
         <img src="./Group1.png" alt="logo" className="h-[34px] w-[67]" />
       </div>
